@@ -37,7 +37,9 @@ The processed data set can be found [Here](https://github.com/jltsang/DaiET/blob
 
 ### Heuristic Function
 The heuristic function is given by the following equation:
+
 ![Heuristic function](./readme/heuristic.png)  
+
 The heuristic for each nutrient is the normalized “closeness” of the nutritional value of the total dish from the recommended nutritional value given a person’s age and gender, as described in the `Philippine Dietary Reference Intakes 2015 tables` and grows closer to 1 as the total nutritional value for that nutrient grows closer to the recommended value and farther if that value is exceeded.
 
 A balanced meal with the exact recommended nutritional values would have a heuristic value of *n*, where *n* is the number of nutrient inputs. Since obtaining the exact amount of recommended values in a generated meal set is improbable, meal sets that are in the range of 90% of the maximum value *n* is considered optimal.
