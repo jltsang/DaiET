@@ -31,7 +31,7 @@ To run the progam, enter `python3 gui.py` or `python3 cli.py`
 As stated previously, the data set was obtained from https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews. The following steps were done as part of the preprocessing stage:
 * Recipes that were not part of `Breakfast, Lunch/Snacks (the category used in place of Lunch), One Dish Meal (alternative to Dinner)` were deleted. This is to reduce the time taken for the program to search for meal combinations.
 * Recipes with missing values in `Calories, Carbohydrate, Fat, Protein, Fiber, or RecipeServings` were deleted. Only these values are taken into account by the program for determining the nutritional value of the selected meals. `RecipeServings` is essential for standardizing the amount of each dish in the dataset to one person. 
-* Unescessary columns that are not used for the project, such as `AuthorID, AuthorName, AgregatedRating, etc.`, were dropped in the preprocessing stage.
+* Unnescessary columns that are not used for the project, such as `AuthorID, AuthorName, AgregatedRating, etc.`, were dropped in the preprocessing stage.
 
 The processed data set can be found [Here](https://github.com/jltsang/DaiET/blob/main/csv_files/recipes.csv)
 
