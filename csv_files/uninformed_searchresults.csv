@@ -1,4 +1,4 @@
-,Meal Index,Age,Sex,Breakfast,Lunch/Snacks,One Dish Meal,Calories,CarbohydrateContent,FatContent,ProteinContent,FiberContent,Heuristic,90%?,COUNT
+,Meal Index,Age,Sex,Breakfast,Lunch/Snacks,One Dish Meal,Calories,CarbohydrateContent,FatContent,ProteinContent,FiberContent,Heuristic,90%? (Heuristic),COUNT
 0,"[49575, 68946, 82352]",44,M,Dairy Free Breakfast Burrito,Choc Chip Flapjacks,Center Cut Pork Loin Chops With Caramelized Onions,2787.225,364.65,127.125,69.575,30.525,4.588559154,TRUE,10
 1,"[17585, 3539, 14990]",36,M,Sausage and Rice Pancakes With Country Gravy,Meal in a Bowl - Noodle Soup - for 1 Double for 2 (Vegetarian),Beef Pasta,2524.55,323.425,105.075,72.475,24.325,4.606411825,TRUE,
 2,"[11909, 7636, 15230]",39,F,Creamy Swiss Eggs on Biscuits,Turkey Stuffing (Dried fruit and nut),Scrambled Bread,1900.075,203.075,108.425,57.15,28.575,4.361439365,FALSE,

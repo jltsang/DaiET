@@ -1,4 +1,4 @@
-,Meal Index,Age,Sex,Breakfast,Lunch/Snacks,One Dish Meal,Calories,CarbohydrateContent,FatContent,ProteinContent,FiberContent,Heuristic,90%?,Count
+,Meal Index,Age,Sex,Breakfast,Lunch/Snacks,One Dish Meal,Calories,CarbohydrateContent,FatContent,ProteinContent,FiberContent,Heuristic,90%? (Heuristic),Count
 0,"[32181, 27065, 17797]",53,F,Valkmiki's Eggless Aka Tofu Scramble,No I'm Not Pregnant!! Sandwich,Anne's Famous Irish Corned Beef,2273.583333,253.6833333,117.6333333,63.98333333,25.03333333,4.488396275,FALSE,76
 1,"[3056, 68946, 72406]",78,F,Sunny Orange Pancakes,Choc Chip Flapjacks,Italian Coated Chicken With Chicken Creole Rice,2425.233333,323.3,109.1666667,60.81666667,25.06666667,4.374085586,FALSE,
 2,"[32215, 27065, 52996]",39,F,B's Breakfast Bagel,No I'm Not Pregnant!! Sandwich,Fish in the Sea,2578.9,320.25,123.55,61.1,25.95,4.459833179,FALSE,
