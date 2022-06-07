@@ -33,7 +33,7 @@ As stated previously, the data set was obtained from https://www.kaggle.com/data
 * Recipes with missing values in `Calories, Carbohydrate, Fat, Protein, Fiber, or RecipeServings` were deleted. Only these values are taken into account by the program for determining the nutritional value of the selected meals. `RecipeServings` is essential for standardizing the amount of each dish in the dataset to one person. 
 * Unescessary columns that are not used for the project, such as `AuthorID, AuthorName, AgregatedRating, etc.`, were dropped in the preprocessing stage.
 
-The preprocessed data set can be found [ADD LINK HERE]
+The processed data set can be found [Here](https://github.com/jltsang/DaiET/blob/main/csv_files/recipes.csv)
 
 ### Heuristic Function
 The heuristic function is given by the following equation:
@@ -69,7 +69,7 @@ Looking at the results of the test, the program was able to pass the test and pr
 
 ![Performance Measure](./readme/performance_ave.png)  
 
-Complete details of the results of the 100 runs (input parameters, meal names, total nutrient values, heuristic score) can be found in this csv file (ADD LINK HERE).
+Complete details of the results of the 100 runs (input parameters, meal names, total nutrient values, heuristic score) can be found in the csv file, [modelperformance](https://github.com/jltsang/DaiET/blob/main/csv_files/modelperformance.csv).
 
 ### Greedy Search vs Depth-First Search Comparison
 
@@ -85,4 +85,4 @@ Results between the uninformed and informed search model are compared to measure
 
 The following plot shows the results of both models. Looking at the results, we can observe that the DFS model has a better optimality than the Greedy search. This is  to be expected since DFS, as an uninformed search, tested all possible outcomes before choosing the best one. The Greedy Search Model sacrifices some optimality in exchange for a much faster runtime of `O(n+m)`.
 
-Complete details of the results of the 100 runs (input parameters, meal names, total nutrient values, heuristic score) can be found in csv files (ADD LINKS HERE).
+Complete details of the results of the 100 runs (input parameters, meal names, total nutrient values, heuristic score) can be found their respective csv files, [Greedy Search](https://github.com/jltsang/DaiET/blob/main/csv_files/searchresults.csv) and [DFS](https://github.com/jltsang/DaiET/blob/main/csv_files/uninformed_searchresults.csv).
