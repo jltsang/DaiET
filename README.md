@@ -45,13 +45,15 @@ The heuristic for each nutrient is the normalized “closeness” of the nutriti
 A balanced meal with the exact recommended nutritional values would have a heuristic value of *n*, where *n* is the number of nutrient inputs. Since obtaining the exact amount of recommended values in a generated meal set is improbable, meal sets that are in the range of 90% of the maximum value *n* is considered optimal.
 
 ## Code Outline
-The program consists mainly of four parts:
+The program consists mainly of five parts:
 * loadrecipes.py
   * A loadrecipes() function that pre-processes and loads the recipes from the database. This is done by loading a CSV file containing the recipes and dropping all of the unused columns and invalid rows as described in the [Data Collection and Preprocessing stage](#data-collection-and-preprocessing-stage).
 * users.py
   * A Users class that stores the age and sex of the user, as well as computes the recommended nutritional value for that user's age and sex based on the Philippine Dietary Reference Intakes 2015 Summary Tables.
 * cli.py
-  * A user interface that allows a user to input their age and sex, generate a balanced set of meals, and view the set of meals generated and their nutritional values through the command lline.
+  * A user interface that allows a user to input their age and sex, generate a balanced set of meals, and view the set of meals generated and their nutritional values through the command line.
+* gui.py
+  * A graphical user interface that allows a user to input their age and sex, generate a balanced set of meals, and view the set of meals generated and their nutritional values.
 * searchmeal.py
   * The search function search_meal() that takes the user information, the loaded recipes, and an optional first meal as arguments and returns a "balanced" set of meals that should have a total nutritional value close to the recommended nutritional values. The operation of this function is described below.
 
