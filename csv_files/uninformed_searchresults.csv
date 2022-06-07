@@ -1,101 +1,101 @@
-,Meal Index,Age,Sex,Breakfast,Lunch/Snacks,One Dish Meal,Calories,CarbohydrateContent,FatContent,ProteinContent,FiberContent,Heuristic
-0,"[49575, 68946, 82352]",44,M,Dairy Free Breakfast Burrito,Choc Chip Flapjacks,Center Cut Pork Loin Chops With Caramelized Onions,2787.225,364.65,127.125,69.575,30.525,4.588559154310015
-1,"[17585, 3539, 14990]",36,M,Sausage and Rice Pancakes With Country Gravy,Meal in a Bowl - Noodle Soup - for 1 Double for 2 (Vegetarian),Beef Pasta,2524.55,323.425,105.075,72.475,24.325,4.606411825178982
-2,"[11909, 7636, 15230]",39,F,Creamy Swiss Eggs on Biscuits,Turkey Stuffing (Dried fruit and nut),Scrambled Bread,1900.0749999999998,203.07500000000002,108.425,57.15,28.574999999999996,4.361439364854064
-3,"[19858, 28403, 15987]",41,F,Creamy Rice Eggs,New Zealand Pasties,Pasta and White Beans in Light Tomato Sauce,2558.9833333333336,275.3833333333333,132.56666666666666,65.58333333333333,20.566666666666666,4.068027473427214
-4,"[63446, 76573, 48325]",79,M,Pumpkin Pear Waffles,Taco Rice(Tshimo),Bird's Ultimate Taco Salad,2224.1833333333334,368.4333333333334,49.15,69.18333333333334,15.3,3.8340744235504327
-5,"[4413, 20291, 73154]",53,F,Potato Pancake,Chickpea and Onion Sandwich,Creamy Surimi Bachelor Chow,1860.0749999999998,181.325,98.875,68.025,17.35,4.037448712026568
-6,"[70314, 84148, 35672]",41,F,Apple Cake,Grilled Bologna Sandwich,Penne With Mushrooms and Red Pepper for One,2040.5666666666666,204.74166666666667,111.975,51.958333333333336,20.34166666666667,4.196112650877641
-7,"[20920, 8216, 7377]",65,M,Easy Breakfast Casserole II,Solo Green Beans and Chicken With Pasta,Salmon Penne,2112.0666666666666,207.08333333333334,113.68333333333334,73.26666666666667,25.0,4.404374644883788
-8,"[47949, 47203, 31872]",47,M,Chocolate Peanut Butter Banana Stuffed French Toast,Chicken Nachos,Baked Chicken Parmesan,2834.5750000000003,349.84999999999997,136.67499999999998,69.875,25.550000000000004,4.6711724896362
-9,"[80410, 21252, 34430]",9,M,Grilled Cheese Sandwich,Bologna Burger,Super Quick Black Beans and Rice,1328.7,168.4,54.099999999999994,43.15,12.75,4.029806345051109
-10,"[22567, 59264, 19572]",36,M,Healthier Hash Browns  (Cauliflower &amp; Parsnips),Wagyu Steak Sandwich,Italian Poutine,3168.05,433.90000000000003,117.07499999999999,90.39999999999999,27.025000000000002,4.075416671824759
-11,"[1002, 84538, 25636]",78,F,Do Ahead Swiss Cheese Souffles,Fava Toast,"Penne Porcini -- With Tomato, Prosciutto &amp; Porcini Mushrooms",1623.42,215.85,61.74,52.05,28.490000000000002,3.8673389127702587
-12,"[16338, 47203, 47167]",23,M,Smoked Gouda Cheese Grits,Chicken Nachos,Chicken Noodles,2384.025,311.4,103.225,64.075,23.325000000000003,4.4281149117982865
-13,"[40433, 47203, 80877]",66,M,Spiced Pumpkin Pancakes,Chicken Nachos,Chopped Asian Chicken Salad W/Honey-Sesame Crackers,2247.0499999999997,267.05,108.2,65.525,25.450000000000003,4.423889196585052
-14,"[52947, 84614, 3395]",44,F,Old Country Quiche,Chick Fil-A Chicken Sandwich,Best Ever Turkey Onion Sandwich,1600.15,138.675,99.03333333333333,59.50833333333334,28.758333333333333,3.980067574128976
-15,"[6849, 6272, 24087]",67,F,Poached Eggs in Catsup,Roasted and Spiced Chickpeas,Chicken Bianco With Fresh Snow Peas,1597.6,166.55,79.55,59.35,24.25,4.147060083149669
-16,"[31926, 31536, 30676]",7,F,Ham &amp; Eggs Pizza,Elvis Presley's Fried Peanut Butter and Banana Sandwich,Easy One Dish Dinner,1155.5,129.05,65.425,28.8375,14.7625,4.368312319862256
-17,"[69045, 85002, 25636]",23,M,September Porridge - a Finnish Recipe for Syyspuuro,Portobello Patty Melt,"Penne Porcini -- With Tomato, Prosciutto &amp; Porcini Mushrooms",2566.9666666666667,397.73333333333335,73.19166666666666,80.30833333333334,26.816666666666666,4.275560500068949
-18,"[80944, 22869, 83070]",10,F,Pumpkin Pie Breakfast in  Jelly Jar,Pasta and Broccoli Salad,Asian Chicken and Beef Stirfry for Two,1798.03,187.06,99.1,46.66,15.549999999999999,4.4356595601957185
-19,"[47997, 2881, 67413]",48,F,The Best Sausage Gravy,Solo Fiesta Ham and Cheese Pasta,Japanese Curry Rice,1943.0,239.2,83.52499999999999,61.0,20.799999999999997,4.2654496060154266
-20,"[36919, 24192, 43467]",45,M,Banana Flax Breakfast Muffins,The Grouper Club Sandwich,Okonomiyaki,1857.2166666666667,124.49166666666667,126.18333333333334,71.80833333333334,24.7,4.067243009146683
-21,"[52325, 69363, 67245]",77,F,Peanut Butter and Jelly French Toast,Grilled Ham &amp; Cheese With Pineapple,Creamy Barley With Tomatoes and Greens,1551.7,212.575,57.75,61.49999999999999,25.6,4.136133888726981
-22,"[61277, 59732, 1459]",51,F,Big  Belly Busting Breakfast Burritos!,Cream Cheese and Apple Bagel  Bites,Quick pasta for one,2196.2,263.45,109.1,54.7,28.15,4.374094406562829
-23,"[41964, 54270, 66542]",67,F,Cooking Light's Cheddar Grits,Squash Seeds With Chilli &amp; Salt,The Spanish Table Paella,1883.9499999999998,235.65,86.575,57.275000000000006,25.925,4.2214584126427575
-24,"[3478, 14911, 68018]",5,M,Curach (Irish Honey-And-Oatmeal Cream),Circle Sammiches,Kona Coconut Stir Fry,1130.175,160.60000000000002,46.0,25.5,11.700000000000001,4.339656304688219
-25,"[40889, 4589, 11771]",65,M,Avocado &amp; Beetroot on Rye,Solo Italian Sausage and Pasta Medley,Hash and Leftover Gravy,2059.9500000000003,247.2,90.05000000000001,69.0,23.25,4.237858768046411
-26,"[10768, 52798, 67413]",40,F,Charishma's Chocolate Oatmeal,Fruit and Peanut Butter Wraps,Japanese Curry Rice,1924.2,278.0,74.3,54.15,27.299999999999997,4.27915003396488
-27,"[66992, 38194, 7377]",44,M,Whole Wheat French Toast (Vegan),Smoked Vegetable Sandwiches,Salmon Penne,2405.225,289.7,101.075,89.05,26.75,4.244412564435007
-28,"[53291, 81388, 21123]",77,F,Biscuit Breakfast Sandwiches,California Quinoa Club Sandwich,Olive Garden Shrimp Cristoforo,1885.1,186.21666666666664,104.86666666666667,59.58333333333333,28.133333333333333,4.126219416161211
-29,"[59119, 8216, 43428]",62,F,Stamford Omelet,Solo Green Beans and Chicken With Pasta,Duck Tagine With Apples,1743.6,143.15,109.05000000000001,60.0,21.0,4.142986500701262
-30,"[79380, 80687, 3534]",78,F,Three-Cup Breakfast,"Lemon Herb Marinade / Paste for Chicken, Pork and Fish",Solo Raspberry Chicken and Pasta Medley,1832.5,178.1,106.0,57.7,18.4,3.9762442578459405
-31,"[72381, 83220, 1888]",79,F,Supreme Bacon Sandwich,Tomato Basil Salad With Italian Sausage,Mexican Salad,1803.025,175.0,105.07499999999999,61.425,28.35,4.167578255632866
-32,"[19303, 61121, 6308]",18,M,Low Fat Oatmeal Waffles,Microwave Potato Chips,Hearty Zucchini and Tuna Casserole,2859.2,285.79999999999995,161.325,75.1,22.075,4.441720402370792
-33,"[47666, 54341, 2395]",56,M,Cass's Gingerbread Waffles,Tuna Monte Cristo Sandwich,Banana Poi,2801.75,326.6333333333333,133.16666666666669,85.91666666666666,13.483333333333334,4.016312104587273
-34,"[28663, 47012, 31100]",4,F,Scrambled Salsa Egg Sandwiches,Italian Hot Dogs,Loaded Breakfast Grits,950.325,111.75,46.65,23.1,10.125,4.439014747690121
-35,"[60859, 52798, 54094]",41,F,Blueberry-Orange Parfait,Fruit and Peanut Butter Wraps,Tomato Sauce Spaghetti,2084.975,213.875,116.15,67.375,21.424999999999997,4.282501061670365
-36,"[80954, 4446, 7377]",34,F,"Out of This World Waffles, the Healthier Chocolate Version",Spicy Nuts,Salmon Penne,1656.8700000000001,153.82999999999998,94.92,57.83,21.75,4.014001592706443
-37,"[31040, 64317, 38145]",36,M,Pumpkin Pie Oatmeal,Fruity-Tooty Snack Bars,Oyakodon,2555.5,342.7,107.45,64.15,27.549999999999997,4.513708803486246
-38,"[12641, 46874, 80076]",70,M,Blender Pancakes/Waffles,Asian Turkey Baguettes,Basic Potatoe Gratin,2479.75,272.6,124.60000000000001,75.5,25.650000000000002,4.357632034415164
-39,"[23402, 85002, 76233]",48,M,Apple Pancake,Portobello Patty Melt,Chili Bacon Nachos for Two,2304.525,334.20000000000005,74.45,81.07499999999999,21.625,4.162713331311105
-40,"[44423, 27065, 30836]",53,M,Christmas Egg Casserole,No I'm Not Pregnant!! Sandwich,Appalachian Gravy Bread,2785.008333333333,354.4,126.86666666666667,65.75833333333333,25.016666666666666,4.726256590115735
-41,"[83920, 1747, 33419]",34,F,Green Spinach and Zucchini Waffles With Sausage and Potato Hash,Steamed Chicken With Ginseng,Bronze Dyed Pasta and Vegetable Bake With Marinade,1845.075,311.45,48.224999999999994,59.85,28.275,4.218810085627391
-42,"[4854, 66569, 43829]",23,F,Buffet Eggs and Ham,Kate's Spinach Baguette Sandwich,Ham and Pea Pasta,2170.0333333333333,323.30833333333334,64.50833333333334,69.18333333333334,19.025,4.092674297089684
-43,"[28745, 60548, 932]",80,M,Spiced Mexican Fritters,Open-Faced Bagel Sandwich,Biff's Chicken and Pasta,1971.7000000000003,173.475,116.4,65.15,22.9,4.207133197267227
-44,"[53191, 64317, 66341]",8,M,Regular Scrambled Egg Whites,Fruity-Tooty Snack Bars,Lemongrass-Scented Congee,1272.8,125.8,71.39999999999999,41.675,15.975,3.8082756482174025
-45,"[61512, 54226, 25636]",31,F,Fresh Salsa Omelet,Pear and Blue Stilton Toastie,"Penne Porcini -- With Tomato, Prosciutto &amp; Porcini Mushrooms",1793.575,157.875,113.2,44.65,23.5,4.098873051706976
-46,"[55672, 52410, 2395]",17,M,Smoked Salmon With Poached Eggs and Asparagus,A&amp;w Chili Dog Copycat,Banana Poi,3002.8,312.475,152.6,111.125,20.3,4.008496402684717
-47,"[77009, 39151, 9964]",57,F,Healthier Amish Oatmeal,Frozen Green Grapes,Chicken Garbage Pale,1928.5833333333335,309.18333333333334,53.86666666666667,76.35000000000001,24.733333333333334,4.167702803013339
-48,"[13819, 82458, 24817]",45,M,Easy Popovers,Italian Grilled Cheese,Genuine Frito Pie,2210.65,220.05,120.18333333333334,73.46666666666667,22.549999999999997,4.316023706580932
-49,"[28966, 35968, 14725]",9,F,Zucchini Frittata,Helluva Good Veggie Sandwich,Chinese Style Spaghetti,1213.0166666666669,163.325,48.166666666666664,34.958333333333336,12.858333333333334,4.197893575001076
-50,"[76677, 83691, 1888]",70,M,French Toast Delightful Surprise,Warm Pressed Charcuterie Sandwich,Mexican Salad,1661.225,180.4,85.925,60.675,25.175,3.8553191916878253
-51,"[72615, 26726, 44117]",60,M,Mango-Macadamia Souffle,Sweet Mixed Nuts,Moules Frites - French/Belgian Bistro Style Mussels and Chips,2169.6375,210.975,123.775,70.36250000000001,24.325,4.488911982674818
-52,"[27598, 8868, 66542]",23,M,Swedish Pancakes (Pl&auml;ttar),Tastes Like Tuna,The Spanish Table Paella,2049.15,214.8,103.1,67.25,22.55,4.0467063811922115
-53,"[72871, 22869, 17172]",31,F,American Heart Assocations Homemade Breakfast Muesli,Pasta and Broccoli Salad,Bedded Smoked Cod and Calamari,1808.2444444444445,125.07777777777778,132.6,45.17777777777778,23.700000000000003,3.8481612060949164
-54,"[41207, 1159, 18656]",41,F,Vegan Rice Pudding,Vegetables With Pesto and Parmesan Thins,Ginger Fried Rice,2314.875,240.7,112.77499999999999,88.8125,26.1625,4.0237351381550965
-55,"[16337, 26726, 34750]",23,F,Hard-boiled Egg Whites With Avocado,Sweet Mixed Nuts,Easy Chicken Stir-Fry,1911.9,184.37499999999997,114.75,63.0,26.625,4.457532325673259
-56,"[69674, 28403, 72471]",37,M,Ham Breakfast Braid,New Zealand Pasties,Chipotle Chicken in Tortilla Shells,2409.6625000000004,236.925,135.9625,62.9125,21.15,4.307685994562606
-57,"[73911, 61318, 55357]",37,F,Hg's Buffalo Chicken Egg Mug,Barbie's BLT &amp; A,Wholesome Beef Wellington,1839.95,201.85000000000002,93.0,61.6,29.25,4.264699365274607
-58,"[47297, 63313, 18656]",43,M,Mediterranean Frittata,Cinnamon Sugar Apples for the Lunch Box,Ginger Fried Rice,2274.5833333333335,327.33333333333337,74.8,78.25,24.5,4.289254996418596
-59,"[80326, 50715, 63026]",1,M,Chocoalate Smoothie,Candied Popcorn,V's Tex-Mex Scramble,846.0250000000001,100.675,43.275,21.775,8.8,4.214699136321195
-60,"[79452, 36660, 30721]",7,F,Breakfast Casserole Cups,Peanut Butter Lovers-An Elvis Hot Dog!,&quot; Butter Me Bananas&quot; French Toast,1216.15,192.34166666666667,40.75,32.63333333333333,12.633333333333333,4.221979901060626
-61,"[77509, 31416, 7377]",68,M,Cherry Breakfast Sandwich,Pancake Noodles With Chestnut Mushrooms,Salmon Penne,2165.5,229.7,104.7,78.9,22.0,4.197278481447979
-62,"[62950, 68750, 70939]",21,M,Pancake,Grilled Ham and Cheddar Sandwich,Vegetarian Shepherds Pie (For One),2634.625,406.7,72.975,81.625,26.8,4.204947523555128
-63,"[78801, 20239, 9155]",79,M,Breakfast Burrito With Green Beans,Tribble Chicken Salad Sandwich,Solo Greek Style Chicken Salad,1496.125,104.1,96.1,68.125,22.675,3.6627311950243855
-64,"[25082, 177, 24817]",16,M,Baked Cinnamon French Toast,Reuben Sandwich II,Genuine Frito Pie,2289.65,185.10000000000002,148.10000000000002,64.96666666666667,23.633333333333333,4.0004159315982015
-65,"[35916, 43565, 7377]",74,F,Banket (Almond Roll),Crunchy Nut Butter Apples,Salmon Penne,1842.6000000000001,177.25,102.1,66.05,24.15,4.166256894227792
-66,"[55434, 17124, 80076]",67,M,Waffles,Solo Chicken Breast in Peas and Buttermilk Gravy,Basic Potatoe Gratin,2343.3333333333335,229.25,130.31666666666666,72.53333333333333,26.583333333333336,4.423229600615017
-67,"[46613, 14956, 49624]",45,F,--Tasty Dish's-- Banana Pudding in 2 Minutes,Survival Necklace,Dunkadelic-Double Cheeseburger,2095.5,237.7,96.2,83.6,25.8,4.0961519971242355
-68,"[43858, 77736, 10065]",51,F,Bacon Eggs &amp; Oatmeal,Sweet Chilli Glazed Salmon Skin Sushi Roll,Crock pot GARLIC GARLIC GARLIC Chicken!,2153.425,238.825,106.325,62.1,24.400000000000002,4.513845829377907
-69,"[5928, 28206, 67413]",40,M,Brouillade of Mushrooms (or the best scrambled eggs you'll ever eat),My Combination Sandwich,Japanese Curry Rice,2208.475,321.45,69.35,73.85,23.225,4.214387216518303
-70,"[24455, 71110, 59859]",12,M,Breakfast Pasta,Healthy Sandwich,"Easy, Delicious Cashew Ramen!",1915.8,248.0,82.45,49.9,13.9,4.388487083769467
-71,"[17566, 35838, 10874]",60,F,Easy French Pancakes,Leftover Chicken Ranch Salad,Fish and Vegetable Stir-Fry,1582.75,115.875,107.0125,57.625,28.349999999999998,4.093839016479663
-72,"[8931, 20239, 53522]",25,F,Toasted Pistachio with Honey Yoghurt (LOW FAT),Tribble Chicken Salad Sandwich,Kuwaiti Chicken and Rice With Daqoos - Garlic Tomato Sauce,1861.1999999999998,234.55,83.15,56.05,21.25,4.189211453024771
-73,"[80573, 46163, 53917]",1,M,Easy Apple Danish,Garlic &amp;  Feta Lovers Rotini Pasta for One.,Vermicelli Pilaf,944.2375,101.12500000000001,51.025000000000006,22.412499999999998,6.7125,4.6489585550887025
-74,"[78247, 74833, 24817]",62,F,Breakfast Wraps (OAMC),Brie Grilled Cheese Sandwich,Genuine Frito Pie,2080.5,217.03333333333336,113.21666666666667,59.53333333333333,21.95,4.209132496827623
-75,"[27394, 41883, 64721]",7,F,Bacon Avocado Burritos,Greek Goddess Wrap/Salad,Thai Basil Noodle With Broccoli,1303.375,171.1375,57.4125,29.35,14.799999999999999,4.668513469287544
-76,"[50721, 61342, 21584]",74,F,Pumpkin Pancake Souffle,Granma Mary's Avocado Sandwich,Low-Carb Pizza...yum,1435.2,64.45,108.96666666666667,59.33333333333333,21.76666666666667,3.932675912096319
-77,"[74907, 34707, 35401]",9,F,Spinach and Scallion Dutch Baby,Pesto-Crusted Grilled Cheese,Tempura Fish Stir-Fry With Assorted Peppers,1551.1,205.95,62.775,38.925,12.65,4.38041673799063
-78,"[40408, 63140, 6308]",64,F,Strawberry Waffles,Daali Toy,Hearty Zucchini and Tuna Casserole,2098.133333333333,201.41666666666666,113.91666666666667,73.33333333333334,25.216666666666665,4.1137537317170905
-79,"[84663, 27065, 21482]",25,F,Healthy-Ish Pumpkin Apple Muffins,No I'm Not Pregnant!! Sandwich,Pasta With Roasted Mushrooms and Marinara Sauce,2494.0555555555557,314.16666666666663,115.67222222222222,58.97222222222222,24.816666666666666,4.594459956116173
-80,"[56759, 47172, 30522]",38,F,Strawberry Stuffed French Toast,Chicken Liver Cookies for Isabella Martini,Tasty Baked Lamb With Feta Cheese and Tomatoes,2452.95,325.425,100.22500000000001,64.425,24.049999999999997,4.495378554325594
-81,"[84049, 2721, 18656]",18,M,Strawberry Banana Mother's Day Muffins,Puerto Rican Shrimp with Crispy Onions & Avocado Salad,Ginger Fried Rice,3348.9666666666667,296.76666666666665,188.85,86.66666666666666,19.78333333333333,3.9640794840540083
-82,"[25622, 13969, 43219]",2,F,April Fools' Day  Fooled Ya Hot Dog in a Bun,Caramel Apple Dip,Leftover German Sweet Sour Beef,877.225,92.725,49.300000000000004,27.808333333333334,9.5,3.9203412316013364
-83,"[66294, 26726, 34452]",68,F,"Flavorful, Filling, Granola",Sweet Mixed Nuts,Daughter's Dinner in a Dash - Student One-Pot Chicken!,1956.1149999999998,182.78,119.16499999999999,64.415,24.990000000000002,4.24933666349429
-84,"[27352, 44254, 23707]",28,M,Mexican Breakfast,Peanut Butter and Marshmallow Creme Sandwich,Creamed Ground Beef,2644.5430000000006,300.54400000000004,136.283,80.74199999999999,27.552999999999997,4.4651662666747365
-85,"[79802, 31963, 71044]",60,F,Sweet Potato Pancakes With Pecans and Brown Sugar Sauce,Triple Chocolate S'mores,Coriander (Cilantro) Fish Ball Soup,2404.975,305.15,105.95,64.10000000000001,19.975,4.165008690643158
-86,"[31390, 84148, 60524]",15,F,Cast Iron Apple Pancakes Allemagne,Grilled Bologna Sandwich,Hearty Vegetarian Pasta Salad,2171.35,213.35,124.075,56.425,17.174999999999997,4.4171583377911485
-87,"[33761, 61121, 57464]",12,M,Tender Cheese Omelet,Microwave Potato Chips,Udon Noodle Soup,1721.025,220.075,70.35,52.0,19.375,4.05430816489229
-88,"[49411, 73009, 29391]",45,M,Orange French Toast Made With Cinnamon Bread,Grilled Chicken Sandwiches With Roasted Pepper Aioli,The Ospidillo Cafe Chilies Rellenos,2623.3374999999996,334.31666666666666,107.35416666666666,84.65,15.645833333333332,4.094267705698262
-89,"[49627, 81244, 5749]",67,F,Waffles With Cinnamon Fruit Sauce,Basic Regular Pizza Crust 101,Veronica's Pasta Figiole,1793.4250000000002,292.42499999999995,47.4,53.6,28.8,3.9299540172310152
-90,"[72715, 26726, 61253]",74,F,Paula Deen's Ham and Banana Casserole,Sweet Mixed Nuts,"Chicken, Fennel and Tomato Ragout",1867.0944444444444,188.85555555555553,111.30000000000001,53.49444444444444,24.977777777777778,4.229783677791742
-91,"[26426, 81362, 44289]",13,M,Haitian French Toast,"Grilled Apple, Bacon and Cheddar Sandwiches",Pasta Bake With Goats' Cheese,2617.8999999999996,237.23333333333332,158.2,71.68333333333334,16.7,4.058010186757215
-92,"[37839, 61121, 71919]",32,F,Cherry and Orange Blintzes,Microwave Potato Chips,Mustard Chicken,1887.0,152.725,97.975,58.849999999999994,30.9,4.053180667246498
-93,"[27242, 58921, 74232]",62,F,Orange-Cranberry Muffins,Carrot Date Walnut Couscous,Tsunami Hot Dog,2000.6666666666667,178.43333333333334,109.63333333333333,75.79166666666666,19.275,3.8389134942897214
-94,"[30467, 49451, 29966]",3,M,Budyn Z Kielbasek (Poland),Spicy Sandwich,Poor Mans Leeky Rice,909.9666666666667,118.23333333333332,41.18333333333333,19.15,9.299999999999999,4.195268872446177
-95,"[57622, 41826, 31713]",48,M,Whole Wheat Muffins,Oven Roasted Chestnuts,Dobar Chicken,2971.151851851852,260.2,142.5037037037037,93.66666666666666,25.86111111111111,4.01039689645747
-96,"[41581, 73804, 14990]",77,F,Double Blue Pancakes,Farmhouse Supper,Beef Pasta,2318.15,273.4,109.7,63.675,25.45,4.278224271871186
-97,"[29557, 47203, 31866]",46,M,Spicy Bell Pepper Frittata,Chicken Nachos,Crispy Noodle Salad,2368.35,249.2,126.65,75.80000000000001,25.25,4.565843269378106
-98,"[9405, 79651, 25954]",39,M,Make Ahead Egg Bake,Club Sandwich With Sauteed Veggies,Orecchiette With Broccoli Rabe and Sausage,1713.2333333333331,118.03333333333335,110.78333333333333,67.6,14.816666666666668,3.4380953248605293
-99,"[68295, 14620, 34407]",38,F,Breakfast Pitas,Avocado and Smoked Turkey Wrap,Garlic/Basil Chicken Pasta,2005.75,196.85,111.25000000000001,65.25,27.949999999999996,4.36162603742887
+,Meal Index,Age,Sex,Breakfast,Lunch/Snacks,One Dish Meal,Calories,CarbohydrateContent,FatContent,ProteinContent,FiberContent,Heuristic,90%?,COUNT
+0,"[49575, 68946, 82352]",44,M,Dairy Free Breakfast Burrito,Choc Chip Flapjacks,Center Cut Pork Loin Chops With Caramelized Onions,2787.225,364.65,127.125,69.575,30.525,4.588559154,TRUE,10
+1,"[17585, 3539, 14990]",36,M,Sausage and Rice Pancakes With Country Gravy,Meal in a Bowl - Noodle Soup - for 1 Double for 2 (Vegetarian),Beef Pasta,2524.55,323.425,105.075,72.475,24.325,4.606411825,TRUE,
+2,"[11909, 7636, 15230]",39,F,Creamy Swiss Eggs on Biscuits,Turkey Stuffing (Dried fruit and nut),Scrambled Bread,1900.075,203.075,108.425,57.15,28.575,4.361439365,FALSE,
+3,"[19858, 28403, 15987]",41,F,Creamy Rice Eggs,New Zealand Pasties,Pasta and White Beans in Light Tomato Sauce,2558.983333,275.3833333,132.5666667,65.58333333,20.56666667,4.068027473,FALSE,
+4,"[63446, 76573, 48325]",79,M,Pumpkin Pear Waffles,Taco Rice(Tshimo),Bird's Ultimate Taco Salad,2224.183333,368.4333333,49.15,69.18333333,15.3,3.834074424,FALSE,
+5,"[4413, 20291, 73154]",53,F,Potato Pancake,Chickpea and Onion Sandwich,Creamy Surimi Bachelor Chow,1860.075,181.325,98.875,68.025,17.35,4.037448712,FALSE,
+6,"[70314, 84148, 35672]",41,F,Apple Cake,Grilled Bologna Sandwich,Penne With Mushrooms and Red Pepper for One,2040.566667,204.7416667,111.975,51.95833333,20.34166667,4.196112651,FALSE,
+7,"[20920, 8216, 7377]",65,M,Easy Breakfast Casserole II,Solo Green Beans and Chicken With Pasta,Salmon Penne,2112.066667,207.0833333,113.6833333,73.26666667,25,4.404374645,FALSE,
+8,"[47949, 47203, 31872]",47,M,Chocolate Peanut Butter Banana Stuffed French Toast,Chicken Nachos,Baked Chicken Parmesan,2834.575,349.85,136.675,69.875,25.55,4.67117249,TRUE,
+9,"[80410, 21252, 34430]",9,M,Grilled Cheese Sandwich,Bologna Burger,Super Quick Black Beans and Rice,1328.7,168.4,54.1,43.15,12.75,4.029806345,FALSE,
+10,"[22567, 59264, 19572]",36,M,Healthier Hash Browns  (Cauliflower &amp; Parsnips),Wagyu Steak Sandwich,Italian Poutine,3168.05,433.9,117.075,90.4,27.025,4.075416672,FALSE,
+11,"[1002, 84538, 25636]",78,F,Do Ahead Swiss Cheese Souffles,Fava Toast,"Penne Porcini -- With Tomato, Prosciutto &amp; Porcini Mushrooms",1623.42,215.85,61.74,52.05,28.49,3.867338913,FALSE,
+12,"[16338, 47203, 47167]",23,M,Smoked Gouda Cheese Grits,Chicken Nachos,Chicken Noodles,2384.025,311.4,103.225,64.075,23.325,4.428114912,FALSE,
+13,"[40433, 47203, 80877]",66,M,Spiced Pumpkin Pancakes,Chicken Nachos,Chopped Asian Chicken Salad W/Honey-Sesame Crackers,2247.05,267.05,108.2,65.525,25.45,4.423889197,FALSE,
+14,"[52947, 84614, 3395]",44,F,Old Country Quiche,Chick Fil-A Chicken Sandwich,Best Ever Turkey Onion Sandwich,1600.15,138.675,99.03333333,59.50833333,28.75833333,3.980067574,FALSE,
+15,"[6849, 6272, 24087]",67,F,Poached Eggs in Catsup,Roasted and Spiced Chickpeas,Chicken Bianco With Fresh Snow Peas,1597.6,166.55,79.55,59.35,24.25,4.147060083,FALSE,
+16,"[31926, 31536, 30676]",7,F,Ham &amp; Eggs Pizza,Elvis Presley's Fried Peanut Butter and Banana Sandwich,Easy One Dish Dinner,1155.5,129.05,65.425,28.8375,14.7625,4.36831232,FALSE,
+17,"[69045, 85002, 25636]",23,M,September Porridge - a Finnish Recipe for Syyspuuro,Portobello Patty Melt,"Penne Porcini -- With Tomato, Prosciutto &amp; Porcini Mushrooms",2566.966667,397.7333333,73.19166667,80.30833333,26.81666667,4.2755605,FALSE,
+18,"[80944, 22869, 83070]",10,F,Pumpkin Pie Breakfast in  Jelly Jar,Pasta and Broccoli Salad,Asian Chicken and Beef Stirfry for Two,1798.03,187.06,99.1,46.66,15.55,4.43565956,FALSE,
+19,"[47997, 2881, 67413]",48,F,The Best Sausage Gravy,Solo Fiesta Ham and Cheese Pasta,Japanese Curry Rice,1943,239.2,83.525,61,20.8,4.265449606,FALSE,
+20,"[36919, 24192, 43467]",45,M,Banana Flax Breakfast Muffins,The Grouper Club Sandwich,Okonomiyaki,1857.216667,124.4916667,126.1833333,71.80833333,24.7,4.067243009,FALSE,
+21,"[52325, 69363, 67245]",77,F,Peanut Butter and Jelly French Toast,Grilled Ham &amp; Cheese With Pineapple,Creamy Barley With Tomatoes and Greens,1551.7,212.575,57.75,61.5,25.6,4.136133889,FALSE,
+22,"[61277, 59732, 1459]",51,F,Big  Belly Busting Breakfast Burritos!,Cream Cheese and Apple Bagel  Bites,Quick pasta for one,2196.2,263.45,109.1,54.7,28.15,4.374094407,FALSE,
+23,"[41964, 54270, 66542]",67,F,Cooking Light's Cheddar Grits,Squash Seeds With Chilli &amp; Salt,The Spanish Table Paella,1883.95,235.65,86.575,57.275,25.925,4.221458413,FALSE,
+24,"[3478, 14911, 68018]",5,M,Curach (Irish Honey-And-Oatmeal Cream),Circle Sammiches,Kona Coconut Stir Fry,1130.175,160.6,46,25.5,11.7,4.339656305,FALSE,
+25,"[40889, 4589, 11771]",65,M,Avocado &amp; Beetroot on Rye,Solo Italian Sausage and Pasta Medley,Hash and Leftover Gravy,2059.95,247.2,90.05,69,23.25,4.237858768,FALSE,
+26,"[10768, 52798, 67413]",40,F,Charishma's Chocolate Oatmeal,Fruit and Peanut Butter Wraps,Japanese Curry Rice,1924.2,278,74.3,54.15,27.3,4.279150034,FALSE,
+27,"[66992, 38194, 7377]",44,M,Whole Wheat French Toast (Vegan),Smoked Vegetable Sandwiches,Salmon Penne,2405.225,289.7,101.075,89.05,26.75,4.244412564,FALSE,
+28,"[53291, 81388, 21123]",77,F,Biscuit Breakfast Sandwiches,California Quinoa Club Sandwich,Olive Garden Shrimp Cristoforo,1885.1,186.2166667,104.8666667,59.58333333,28.13333333,4.126219416,FALSE,
+29,"[59119, 8216, 43428]",62,F,Stamford Omelet,Solo Green Beans and Chicken With Pasta,Duck Tagine With Apples,1743.6,143.15,109.05,60,21,4.142986501,FALSE,
+30,"[79380, 80687, 3534]",78,F,Three-Cup Breakfast,"Lemon Herb Marinade / Paste for Chicken, Pork and Fish",Solo Raspberry Chicken and Pasta Medley,1832.5,178.1,106,57.7,18.4,3.976244258,FALSE,
+31,"[72381, 83220, 1888]",79,F,Supreme Bacon Sandwich,Tomato Basil Salad With Italian Sausage,Mexican Salad,1803.025,175,105.075,61.425,28.35,4.167578256,FALSE,
+32,"[19303, 61121, 6308]",18,M,Low Fat Oatmeal Waffles,Microwave Potato Chips,Hearty Zucchini and Tuna Casserole,2859.2,285.8,161.325,75.1,22.075,4.441720402,FALSE,
+33,"[47666, 54341, 2395]",56,M,Cass's Gingerbread Waffles,Tuna Monte Cristo Sandwich,Banana Poi,2801.75,326.6333333,133.1666667,85.91666667,13.48333333,4.016312105,FALSE,
+34,"[28663, 47012, 31100]",4,F,Scrambled Salsa Egg Sandwiches,Italian Hot Dogs,Loaded Breakfast Grits,950.325,111.75,46.65,23.1,10.125,4.439014748,FALSE,
+35,"[60859, 52798, 54094]",41,F,Blueberry-Orange Parfait,Fruit and Peanut Butter Wraps,Tomato Sauce Spaghetti,2084.975,213.875,116.15,67.375,21.425,4.282501062,FALSE,
+36,"[80954, 4446, 7377]",34,F,"Out of This World Waffles, the Healthier Chocolate Version",Spicy Nuts,Salmon Penne,1656.87,153.83,94.92,57.83,21.75,4.014001593,FALSE,
+37,"[31040, 64317, 38145]",36,M,Pumpkin Pie Oatmeal,Fruity-Tooty Snack Bars,Oyakodon,2555.5,342.7,107.45,64.15,27.55,4.513708803,TRUE,
+38,"[12641, 46874, 80076]",70,M,Blender Pancakes/Waffles,Asian Turkey Baguettes,Basic Potatoe Gratin,2479.75,272.6,124.6,75.5,25.65,4.357632034,FALSE,
+39,"[23402, 85002, 76233]",48,M,Apple Pancake,Portobello Patty Melt,Chili Bacon Nachos for Two,2304.525,334.2,74.45,81.075,21.625,4.162713331,FALSE,
+40,"[44423, 27065, 30836]",53,M,Christmas Egg Casserole,No I'm Not Pregnant!! Sandwich,Appalachian Gravy Bread,2785.008333,354.4,126.8666667,65.75833333,25.01666667,4.72625659,TRUE,
+41,"[83920, 1747, 33419]",34,F,Green Spinach and Zucchini Waffles With Sausage and Potato Hash,Steamed Chicken With Ginseng,Bronze Dyed Pasta and Vegetable Bake With Marinade,1845.075,311.45,48.225,59.85,28.275,4.218810086,FALSE,
+42,"[4854, 66569, 43829]",23,F,Buffet Eggs and Ham,Kate's Spinach Baguette Sandwich,Ham and Pea Pasta,2170.033333,323.3083333,64.50833333,69.18333333,19.025,4.092674297,FALSE,
+43,"[28745, 60548, 932]",80,M,Spiced Mexican Fritters,Open-Faced Bagel Sandwich,Biff's Chicken and Pasta,1971.7,173.475,116.4,65.15,22.9,4.207133197,FALSE,
+44,"[53191, 64317, 66341]",8,M,Regular Scrambled Egg Whites,Fruity-Tooty Snack Bars,Lemongrass-Scented Congee,1272.8,125.8,71.4,41.675,15.975,3.808275648,FALSE,
+45,"[61512, 54226, 25636]",31,F,Fresh Salsa Omelet,Pear and Blue Stilton Toastie,"Penne Porcini -- With Tomato, Prosciutto &amp; Porcini Mushrooms",1793.575,157.875,113.2,44.65,23.5,4.098873052,FALSE,
+46,"[55672, 52410, 2395]",17,M,Smoked Salmon With Poached Eggs and Asparagus,A&amp;w Chili Dog Copycat,Banana Poi,3002.8,312.475,152.6,111.125,20.3,4.008496403,FALSE,
+47,"[77009, 39151, 9964]",57,F,Healthier Amish Oatmeal,Frozen Green Grapes,Chicken Garbage Pale,1928.583333,309.1833333,53.86666667,76.35,24.73333333,4.167702803,FALSE,
+48,"[13819, 82458, 24817]",45,M,Easy Popovers,Italian Grilled Cheese,Genuine Frito Pie,2210.65,220.05,120.1833333,73.46666667,22.55,4.316023707,FALSE,
+49,"[28966, 35968, 14725]",9,F,Zucchini Frittata,Helluva Good Veggie Sandwich,Chinese Style Spaghetti,1213.016667,163.325,48.16666667,34.95833333,12.85833333,4.197893575,FALSE,
+50,"[76677, 83691, 1888]",70,M,French Toast Delightful Surprise,Warm Pressed Charcuterie Sandwich,Mexican Salad,1661.225,180.4,85.925,60.675,25.175,3.855319192,FALSE,
+51,"[72615, 26726, 44117]",60,M,Mango-Macadamia Souffle,Sweet Mixed Nuts,Moules Frites - French/Belgian Bistro Style Mussels and Chips,2169.6375,210.975,123.775,70.3625,24.325,4.488911983,FALSE,
+52,"[27598, 8868, 66542]",23,M,Swedish Pancakes (Pl&auml;ttar),Tastes Like Tuna,The Spanish Table Paella,2049.15,214.8,103.1,67.25,22.55,4.046706381,FALSE,
+53,"[72871, 22869, 17172]",31,F,American Heart Assocations Homemade Breakfast Muesli,Pasta and Broccoli Salad,Bedded Smoked Cod and Calamari,1808.244444,125.0777778,132.6,45.17777778,23.7,3.848161206,FALSE,
+54,"[41207, 1159, 18656]",41,F,Vegan Rice Pudding,Vegetables With Pesto and Parmesan Thins,Ginger Fried Rice,2314.875,240.7,112.775,88.8125,26.1625,4.023735138,FALSE,
+55,"[16337, 26726, 34750]",23,F,Hard-boiled Egg Whites With Avocado,Sweet Mixed Nuts,Easy Chicken Stir-Fry,1911.9,184.375,114.75,63,26.625,4.457532326,FALSE,
+56,"[69674, 28403, 72471]",37,M,Ham Breakfast Braid,New Zealand Pasties,Chipotle Chicken in Tortilla Shells,2409.6625,236.925,135.9625,62.9125,21.15,4.307685995,FALSE,
+57,"[73911, 61318, 55357]",37,F,Hg's Buffalo Chicken Egg Mug,Barbie's BLT &amp; A,Wholesome Beef Wellington,1839.95,201.85,93,61.6,29.25,4.264699365,FALSE,
+58,"[47297, 63313, 18656]",43,M,Mediterranean Frittata,Cinnamon Sugar Apples for the Lunch Box,Ginger Fried Rice,2274.583333,327.3333333,74.8,78.25,24.5,4.289254996,FALSE,
+59,"[80326, 50715, 63026]",1,M,Chocoalate Smoothie,Candied Popcorn,V's Tex-Mex Scramble,846.025,100.675,43.275,21.775,8.8,4.214699136,FALSE,
+60,"[79452, 36660, 30721]",7,F,Breakfast Casserole Cups,Peanut Butter Lovers-An Elvis Hot Dog!,&quot; Butter Me Bananas&quot; French Toast,1216.15,192.3416667,40.75,32.63333333,12.63333333,4.221979901,FALSE,
+61,"[77509, 31416, 7377]",68,M,Cherry Breakfast Sandwich,Pancake Noodles With Chestnut Mushrooms,Salmon Penne,2165.5,229.7,104.7,78.9,22,4.197278481,FALSE,
+62,"[62950, 68750, 70939]",21,M,Pancake,Grilled Ham and Cheddar Sandwich,Vegetarian Shepherds Pie (For One),2634.625,406.7,72.975,81.625,26.8,4.204947524,FALSE,
+63,"[78801, 20239, 9155]",79,M,Breakfast Burrito With Green Beans,Tribble Chicken Salad Sandwich,Solo Greek Style Chicken Salad,1496.125,104.1,96.1,68.125,22.675,3.662731195,FALSE,
+64,"[25082, 177, 24817]",16,M,Baked Cinnamon French Toast,Reuben Sandwich II,Genuine Frito Pie,2289.65,185.1,148.1,64.96666667,23.63333333,4.000415932,FALSE,
+65,"[35916, 43565, 7377]",74,F,Banket (Almond Roll),Crunchy Nut Butter Apples,Salmon Penne,1842.6,177.25,102.1,66.05,24.15,4.166256894,FALSE,
+66,"[55434, 17124, 80076]",67,M,Waffles,Solo Chicken Breast in Peas and Buttermilk Gravy,Basic Potatoe Gratin,2343.333333,229.25,130.3166667,72.53333333,26.58333333,4.423229601,FALSE,
+67,"[46613, 14956, 49624]",45,F,--Tasty Dish's-- Banana Pudding in 2 Minutes,Survival Necklace,Dunkadelic-Double Cheeseburger,2095.5,237.7,96.2,83.6,25.8,4.096151997,FALSE,
+68,"[43858, 77736, 10065]",51,F,Bacon Eggs &amp; Oatmeal,Sweet Chilli Glazed Salmon Skin Sushi Roll,Crock pot GARLIC GARLIC GARLIC Chicken!,2153.425,238.825,106.325,62.1,24.4,4.513845829,TRUE,
+69,"[5928, 28206, 67413]",40,M,Brouillade of Mushrooms (or the best scrambled eggs you'll ever eat),My Combination Sandwich,Japanese Curry Rice,2208.475,321.45,69.35,73.85,23.225,4.214387217,FALSE,
+70,"[24455, 71110, 59859]",12,M,Breakfast Pasta,Healthy Sandwich,"Easy, Delicious Cashew Ramen!",1915.8,248,82.45,49.9,13.9,4.388487084,FALSE,
+71,"[17566, 35838, 10874]",60,F,Easy French Pancakes,Leftover Chicken Ranch Salad,Fish and Vegetable Stir-Fry,1582.75,115.875,107.0125,57.625,28.35,4.093839016,FALSE,
+72,"[8931, 20239, 53522]",25,F,Toasted Pistachio with Honey Yoghurt (LOW FAT),Tribble Chicken Salad Sandwich,Kuwaiti Chicken and Rice With Daqoos - Garlic Tomato Sauce,1861.2,234.55,83.15,56.05,21.25,4.189211453,FALSE,
+73,"[80573, 46163, 53917]",1,M,Easy Apple Danish,Garlic &amp;  Feta Lovers Rotini Pasta for One.,Vermicelli Pilaf,944.2375,101.125,51.025,22.4125,6.7125,4.648958555,TRUE,
+74,"[78247, 74833, 24817]",62,F,Breakfast Wraps (OAMC),Brie Grilled Cheese Sandwich,Genuine Frito Pie,2080.5,217.0333333,113.2166667,59.53333333,21.95,4.209132497,FALSE,
+75,"[27394, 41883, 64721]",7,F,Bacon Avocado Burritos,Greek Goddess Wrap/Salad,Thai Basil Noodle With Broccoli,1303.375,171.1375,57.4125,29.35,14.8,4.668513469,TRUE,
+76,"[50721, 61342, 21584]",74,F,Pumpkin Pancake Souffle,Granma Mary's Avocado Sandwich,Low-Carb Pizza...yum,1435.2,64.45,108.9666667,59.33333333,21.76666667,3.932675912,FALSE,
+77,"[74907, 34707, 35401]",9,F,Spinach and Scallion Dutch Baby,Pesto-Crusted Grilled Cheese,Tempura Fish Stir-Fry With Assorted Peppers,1551.1,205.95,62.775,38.925,12.65,4.380416738,FALSE,
+78,"[40408, 63140, 6308]",64,F,Strawberry Waffles,Daali Toy,Hearty Zucchini and Tuna Casserole,2098.133333,201.4166667,113.9166667,73.33333333,25.21666667,4.113753732,FALSE,
+79,"[84663, 27065, 21482]",25,F,Healthy-Ish Pumpkin Apple Muffins,No I'm Not Pregnant!! Sandwich,Pasta With Roasted Mushrooms and Marinara Sauce,2494.055556,314.1666667,115.6722222,58.97222222,24.81666667,4.594459956,TRUE,
+80,"[56759, 47172, 30522]",38,F,Strawberry Stuffed French Toast,Chicken Liver Cookies for Isabella Martini,Tasty Baked Lamb With Feta Cheese and Tomatoes,2452.95,325.425,100.225,64.425,24.05,4.495378554,FALSE,
+81,"[84049, 2721, 18656]",18,M,Strawberry Banana Mother's Day Muffins,Puerto Rican Shrimp with Crispy Onions & Avocado Salad,Ginger Fried Rice,3348.966667,296.7666667,188.85,86.66666667,19.78333333,3.964079484,FALSE,
+82,"[25622, 13969, 43219]",2,F,April Fools' Day  Fooled Ya Hot Dog in a Bun,Caramel Apple Dip,Leftover German Sweet Sour Beef,877.225,92.725,49.3,27.80833333,9.5,3.920341232,FALSE,
+83,"[66294, 26726, 34452]",68,F,"Flavorful, Filling, Granola",Sweet Mixed Nuts,Daughter's Dinner in a Dash - Student One-Pot Chicken!,1956.115,182.78,119.165,64.415,24.99,4.249336663,FALSE,
+84,"[27352, 44254, 23707]",28,M,Mexican Breakfast,Peanut Butter and Marshmallow Creme Sandwich,Creamed Ground Beef,2644.543,300.544,136.283,80.742,27.553,4.465166267,FALSE,
+85,"[79802, 31963, 71044]",60,F,Sweet Potato Pancakes With Pecans and Brown Sugar Sauce,Triple Chocolate S'mores,Coriander (Cilantro) Fish Ball Soup,2404.975,305.15,105.95,64.1,19.975,4.165008691,FALSE,
+86,"[31390, 84148, 60524]",15,F,Cast Iron Apple Pancakes Allemagne,Grilled Bologna Sandwich,Hearty Vegetarian Pasta Salad,2171.35,213.35,124.075,56.425,17.175,4.417158338,FALSE,
+87,"[33761, 61121, 57464]",12,M,Tender Cheese Omelet,Microwave Potato Chips,Udon Noodle Soup,1721.025,220.075,70.35,52,19.375,4.054308165,FALSE,
+88,"[49411, 73009, 29391]",45,M,Orange French Toast Made With Cinnamon Bread,Grilled Chicken Sandwiches With Roasted Pepper Aioli,The Ospidillo Cafe Chilies Rellenos,2623.3375,334.3166667,107.3541667,84.65,15.64583333,4.094267706,FALSE,
+89,"[49627, 81244, 5749]",67,F,Waffles With Cinnamon Fruit Sauce,Basic Regular Pizza Crust 101,Veronica's Pasta Figiole,1793.425,292.425,47.4,53.6,28.8,3.929954017,FALSE,
+90,"[72715, 26726, 61253]",74,F,Paula Deen's Ham and Banana Casserole,Sweet Mixed Nuts,"Chicken, Fennel and Tomato Ragout",1867.094444,188.8555556,111.3,53.49444444,24.97777778,4.229783678,FALSE,
+91,"[26426, 81362, 44289]",13,M,Haitian French Toast,"Grilled Apple, Bacon and Cheddar Sandwiches",Pasta Bake With Goats' Cheese,2617.9,237.2333333,158.2,71.68333333,16.7,4.058010187,FALSE,
+92,"[37839, 61121, 71919]",32,F,Cherry and Orange Blintzes,Microwave Potato Chips,Mustard Chicken,1887,152.725,97.975,58.85,30.9,4.053180667,FALSE,
+93,"[27242, 58921, 74232]",62,F,Orange-Cranberry Muffins,Carrot Date Walnut Couscous,Tsunami Hot Dog,2000.666667,178.4333333,109.6333333,75.79166667,19.275,3.838913494,FALSE,
+94,"[30467, 49451, 29966]",3,M,Budyn Z Kielbasek (Poland),Spicy Sandwich,Poor Mans Leeky Rice,909.9666667,118.2333333,41.18333333,19.15,9.3,4.195268872,FALSE,
+95,"[57622, 41826, 31713]",48,M,Whole Wheat Muffins,Oven Roasted Chestnuts,Dobar Chicken,2971.151852,260.2,142.5037037,93.66666667,25.86111111,4.010396896,FALSE,
+96,"[41581, 73804, 14990]",77,F,Double Blue Pancakes,Farmhouse Supper,Beef Pasta,2318.15,273.4,109.7,63.675,25.45,4.278224272,FALSE,
+97,"[29557, 47203, 31866]",46,M,Spicy Bell Pepper Frittata,Chicken Nachos,Crispy Noodle Salad,2368.35,249.2,126.65,75.8,25.25,4.565843269,TRUE,
+98,"[9405, 79651, 25954]",39,M,Make Ahead Egg Bake,Club Sandwich With Sauteed Veggies,Orecchiette With Broccoli Rabe and Sausage,1713.233333,118.0333333,110.7833333,67.6,14.81666667,3.438095325,FALSE,
+99,"[68295, 14620, 34407]",38,F,Breakfast Pitas,Avocado and Smoked Turkey Wrap,Garlic/Basil Chicken Pasta,2005.75,196.85,111.25,65.25,27.95,4.361626037,FALSE,
